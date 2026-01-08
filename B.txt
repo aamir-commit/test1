@@ -1,6 +1,4 @@
-This is the process of second Commit, i want to see the changes that are made for the git pull
-Some other developer his name is anonymous has commited this change
-so lets see whether it is working or not....
+this is the final act of change
 
 
 
